@@ -1,6 +1,9 @@
 # Annonces de lancement — brouillons
 
-Ces textes ne sont pas encore publiés. Ajouter le lien public vérifié au moment de la diffusion.
+Ces textes sont des brouillons de publications sociales, non diffusés.
+
+Application publique vérifiée : https://romd3d.github.io/rom3d-vector-studio/
+Dépôt : https://github.com/RomD3D/rom3d-vector-studio
 
 ## Facebook / groupe impression 3D
 
@@ -16,6 +19,8 @@ C’est une première bêta : le résultat dépend de l’image de départ et ce
 
 Qu’est-ce qui vous serait le plus utile pour la suite : export DXF, retouche des points ou réglages supplémentaires ?
 
+Essayer l’application : https://romd3d.github.io/rom3d-vector-studio/
+
 #Rom3D #Impression3D #SVG #Vectorisation #Creation3D
 
 ## TikTok / Reels — texte de publication
@@ -25,6 +30,8 @@ Un logo → des contours SVG ✨
 Je développe Rom3D Vector Studio : un outil en français qui tourne dans le navigateur, avec lissage, détails intérieurs et fond blanc ou noir.
 
 Première bêta : vos retours vont m’aider à l’améliorer !
+
+À essayer : https://romd3d.github.io/rom3d-vector-studio/
 
 #Rom3D #Vectorisation #SVG #Impression3D #Creation3D
 
