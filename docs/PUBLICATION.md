@@ -8,11 +8,13 @@ Le logiciel, son guide, ses sources tierces et les brouillons de communication s
 
 ## Hébergement GitHub Pages
 
-Dans Settings → Pages : Deploy from a branch → main → /(root). Attendre la confirmation de déploiement et ouvrir le lien retourné sans session GitHub/ChatGPT avant de le diffuser.
+Application publique : https://romd3d.github.io/rom3d-vector-studio/
+
+GitHub Pages est configuré sur la branche main, dossier /(root). Le calcul de l’exemple intégré, le changement de fond et le déclenchement du téléchargement SVG ont été vérifiés sur le site publié.
 
 ## Communication
 
-Le dossier `marketing` contient un visuel SVG, une annonce Facebook, une légende TikTok/Reels et un scénario de démonstration. Ces textes sont des brouillons, pas des annonces déjà diffusées. Ajouter le lien public vérifié avant publication.
+Le dossier `marketing` contient un visuel SVG, une annonce Facebook, une légende TikTok/Reels et un scénario de démonstration. Ces textes sont des brouillons, pas des annonces déjà diffusées. Les textes contiennent le lien public vérifié. Choisir le réseau et le compte de diffusion avant tout envoi.
 
 Le site de test ChatGPT peut être privé. Ne pas le confondre avec une version GitHub Pages publique.
 
