@@ -8,6 +8,12 @@ Rom3D Vector Studio transforme des logos et silhouettes en tracés vectoriels. L
 
 **Version 0.7.0-bêta — projet de RomD3D.**
 
+## Essayer en ligne
+
+👉 **[Ouvrir Rom3D Vector Studio](https://romd3d.github.io/rom3d-vector-studio/)** — aucune installation ni connexion nécessaire.
+
+Le calcul et le téléchargement SVG ont été vérifiés sur le site publié avec l’exemple intégré.
+
 ## Ce que vous pouvez faire
 
 - Importer un PNG, JPG, WEBP ou BMP, par sélection ou glisser-déposer.
